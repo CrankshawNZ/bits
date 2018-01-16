@@ -1,6 +1,6 @@
 A place to put random bits n pieces.
 
-#Crypto currency stuff
+# Crypto currency stuff
 
 Cryptocurrency Exchanges that I like to use:
 
@@ -12,3 +12,4 @@ Cryptocurrency Exchanges that I like to use:
 An ICO(?) I've participated in:
 
 [SKRAPS](https://dashboard.skraps.io/?ref=f9e7b78dd78f1ddbee5b0564) - referal link gives you extra 5% bonus when buying in.
+
